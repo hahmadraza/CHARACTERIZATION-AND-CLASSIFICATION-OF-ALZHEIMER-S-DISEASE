@@ -1,3 +1,4 @@
+# ABSTRACT 
 Alzheimer’s disease is a neurodegenerative disorder that affects aging human population. It causes progressive degeneration of the nervous system, affecting the cognitive ability of human brain. 
 The disorder causes the growth of amyloid plaques and tau tangles to abnormal levels due to excessive synthesis of the constituent proteins. This manifests itself as memory loss, vision loss and 
 overall cognitive impairment leaving the subject dependent on external help for conduct of daily life. The disease is projected to affect a considerable proportion of population in the future. 
